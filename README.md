@@ -69,7 +69,7 @@ To become a skilled Big Data Analytics professional capable of designing scalabl
 
 ---
 
-⭐ Open to internships, data engineering projects, and collaborative learning opportunities.## Hi there 👋
+⭐ Open to internships, data engineering projects, and collaborative learning opportunities.
 
 
 
